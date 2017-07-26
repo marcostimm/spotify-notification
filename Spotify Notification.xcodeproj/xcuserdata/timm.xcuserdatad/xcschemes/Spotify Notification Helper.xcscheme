@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "241699951EE8F5E000BA1212"
-               BuildableName = "Spotify Notification.app"
-               BlueprintName = "Spotify Notification"
+               BlueprintIdentifier = "24B1A04B1F23D3AB005B3480"
+               BuildableName = "Spotify Notification Helper.app"
+               BlueprintName = "Spotify Notification Helper"
                ReferencedContainer = "container:Spotify Notification.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -32,9 +32,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "241699951EE8F5E000BA1212"
-            BuildableName = "Spotify Notification.app"
-            BlueprintName = "Spotify Notification"
+            BlueprintIdentifier = "24B1A04B1F23D3AB005B3480"
+            BuildableName = "Spotify Notification Helper.app"
+            BlueprintName = "Spotify Notification Helper"
             ReferencedContainer = "container:Spotify Notification.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -55,9 +55,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "241699951EE8F5E000BA1212"
-            BuildableName = "Spotify Notification.app"
-            BlueprintName = "Spotify Notification"
+            BlueprintIdentifier = "24B1A04B1F23D3AB005B3480"
+            BuildableName = "Spotify Notification Helper.app"
+            BlueprintName = "Spotify Notification Helper"
             ReferencedContainer = "container:Spotify Notification.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -74,9 +74,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "241699951EE8F5E000BA1212"
-            BuildableName = "Spotify Notification.app"
-            BlueprintName = "Spotify Notification"
+            BlueprintIdentifier = "24B1A04B1F23D3AB005B3480"
+            BuildableName = "Spotify Notification Helper.app"
+            BlueprintName = "Spotify Notification Helper"
             ReferencedContainer = "container:Spotify Notification.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

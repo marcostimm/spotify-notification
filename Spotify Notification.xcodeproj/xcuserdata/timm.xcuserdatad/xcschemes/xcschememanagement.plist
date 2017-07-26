@@ -4,8 +4,15 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Spotify Notification Helper.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>Spotify Notification.xcscheme</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
@@ -13,6 +20,21 @@
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>241699951EE8F5E000BA1212</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>247954151F23D1E400F27407</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>24B1A04B1F23D3AB005B3480</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>24F5175F1F23CE1D00209997</key>
 		<dict>
 			<key>primary</key>
 			<true/>
